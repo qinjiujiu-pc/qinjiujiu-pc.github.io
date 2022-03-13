@@ -1,0 +1,19 @@
+{
+    "name": "十九万里",
+    "short_name": "十九万里",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "description": "十九万里的个人主页",
+    "theme_color": "blue",
+ 
+    "related_applications": [
+      {
+        "platform": "web"
+      },
+      {
+        "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+      }
+    ]
+  }
